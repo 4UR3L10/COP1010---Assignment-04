@@ -1,0 +1,33 @@
+Assigment 04:
+
+Optional: Read Chapter 03 of Starting out with Visual C# 4th / Tony Gaddis
+Read:Readme.txt of The project on Github 
+
+GIU Part:
+- Program must have an Icon.
+- Program must have a name.
+- Name of labels,buttons same as output.
+- Cannot change size of the window program while running.
+- I do NOT care about size but everything should look similar as the output.
+- You should be able to type in the three first editboxes like the putput.
+- Your program should be able to do the following shortcuts: (alt + e) = Exit ,(alt + n) = New, (alt + c) = calculate
+- Use the Tab Index property with textboxes and buttons to make it more efficient to use.(You should be able to use the "Tab"key to change the focus of editboxes and buttons) 
+
+
+Code:
+- Exit button should finish your program.
+- Restart button should clear all inputs and values.
+- Calculate button should do the necessary calculations.
+- salary bonus is always 1 %
+- Salary without bonus means the normal salary with or without the overtime. 
+- total salary means: the salary without bonus with an addition of the 1% of the salary without bonus example: 10$/h * 40h = $400 -> without bonus, then you apply 1% of 400 to get the amount of money for the bonus.
+- (Rest of the calculations should by known by you.)
+- Use Try-Catch to catch an input error (If you get an error you should clear all values except the name)
+
+
+Extra Credit:
+- Add a Panel or GroupBox tomake it prettier like the book.
+
+
+Submission (On Github):
+- Do the fork to get the project, do the changes, make a pull request from your project and your branch to mine project your branch.
