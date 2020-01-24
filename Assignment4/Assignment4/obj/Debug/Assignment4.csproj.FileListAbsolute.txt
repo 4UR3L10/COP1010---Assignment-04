@@ -1,0 +1,9 @@
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.salaryCalculatorForm.resources
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Miguelito\source\repos\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
