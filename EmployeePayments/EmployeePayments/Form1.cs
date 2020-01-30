@@ -69,7 +69,7 @@ namespace EmployeePayments
                     overTimePayment = hourlyRate / 2;
                     double totalPerHour = hourlyRate + overTimePayment;
                     overTimePayment = overTimeHours * totalPerHour;
-                    OvertimePaymentTxtBox.Text = overTimePayment.ToString();
+                    OvertimePaymentTxtBox.Text = "$ " + overTimePayment.ToString();
 
                 }
                 else
@@ -79,11 +79,11 @@ namespace EmployeePayments
                 }
 
                 SalaryWithoutBonus = (amountOfHours * hourlyRate) + overTimePayment;
-                SalaryWithoutBonusTxtBox.Text = SalaryWithoutBonus.ToString();
+                SalaryWithoutBonusTxtBox.Text = "$ " + SalaryWithoutBonus.ToString();
 
 
                 totalSalary = (SalaryWithoutBonus * EMPLOYEE_BONUS) + SalaryWithoutBonus;
-                TotalSalaryTxtBox.Text = totalSalary.ToString();
+                TotalSalaryTxtBox.Text = "$ " + totalSalary.ToString();
 
             }
             catch
