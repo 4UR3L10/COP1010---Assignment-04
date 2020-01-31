@@ -1,0 +1,9 @@
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\bin\Debug\SalaryAssignment.exe.config
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\bin\Debug\SalaryAssignment.exe
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\bin\Debug\SalaryAssignment.pdb
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\obj\Debug\SalaryAssignment.csprojAssemblyReference.cache
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\obj\Debug\SalaryAssignment.Form.resources
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\obj\Debug\SalaryAssignment.Properties.Resources.resources
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\obj\Debug\SalaryAssignment.csproj.GenerateResource.cache
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\obj\Debug\SalaryAssignment.exe
+C:\Users\Miguelito\source\repos\SalaryAssignment\SalaryAssignment\obj\Debug\SalaryAssignment.pdb
